@@ -39,3 +39,82 @@
   
 
 }
+
+.columna2{
+   
+    position: absolute;
+    top: 120px;
+    right: 50%;
+    width: 200px;
+    height: 100px;
+   
+   
+}
+
+.columna3{
+    
+    position: absolute;
+    top: 150px;
+    right: 56%;
+    width: 100px;
+    height: 100px;
+}
+
+.columna4{
+    position: absolute;
+    top: 150px;
+    left: 51%;
+    width: 100px;
+    height: 100px;
+    
+}
+
+.usuario{
+    position: absolute;
+    top: 200px;
+    left: 55%;
+    width: 100px;
+    height: 100px;
+    
+}
+
+.casilla1{
+    background-color: #006aa7;
+    margin: 5px;
+}
+.casilla2{
+    background-color: #006aa7;
+    color:  #e0e0e0;
+      margin: 5px;
+}
+
+.columna5{
+    position: absolute;
+    top: 450px;
+    left: 44%;
+    width: 100px;
+    height: 100px;
+    color: white;
+   
+    
+}
+
+.login{
+    position: absolute;
+    top: 560px;
+    left: 44%;
+    width: 800px;
+    height: 800px;
+    
+    
+}
+
+.columna6{
+    position: absolute;
+    top: 89px;
+    right: 30%;
+    width: 100px;
+    height: 100px;
+}
+
+
