@@ -14,7 +14,7 @@ Para maquetacion de proyectos, o paginas web.
 
 4.- ¿Como se haria una lista ordenada de 3 items en MarkDown?
 
-
+    *Lista(ul)
 
 5.- Nombra 3 ejemplos de uso de Latex
 
@@ -22,21 +22,27 @@ Para maquetacion de proyectos, o paginas web.
 
 6.- ¿En que se parece el Xml y el HTML?
 
-    En su lenguage
+    Los espacios y los saltos de linea ocupan mas en esos lenguages.
 
 7.- ¿Que tipos de valor acepta JSON?
 
-
+string
+Booleana
+Numero flotante
+listas
+Numero
+Otro objeto
 
 8.- ¿Cuantos niveles de anidación permite JSON?
 a.- Ninguno, solo permite hacer objetos planos
 b.- Uno, solo permite que uno de los atributos sea un objeto
-c.- Infinito, no hay un limite de anidaciones
+c.- Infinito, no hay un limite de anidaciones-->esta
 d.- Dos, se permite que un array sea anidado de objetos.
 
 9.- Usos principales de JSON
 
     Petciones a servidores
+    Tratamiento de objetos de javascript
 
 10.- En HTML ¿Cual sería la etiqueta a usar para un parrafo?
 a.- p-->Esta
@@ -74,6 +80,10 @@ d.- select#originalidad
 
 15.- Queremos seleccionar todos los li tengan el fondo de color azul ¿Como sería el selector y la regla CSS?
 
+    #li=backgraund:blue{
+
+    }
+
 16.- Queremos poner un margin a la izquierda y derecha de 2rem en los div que sean grid-item ¿Como sería el selector y las reglas CSS?
     
     .grid-item{
@@ -83,9 +93,15 @@ d.- select#originalidad
 
 17.- ¿Que está mal en el footer? ¿Lo mostraría correctamente el navegador?
 
+    Que el footer se repite 2 veces. Si,lo mostraría
+
 18.- ¿Cual es la función de las etiquetas meta?
 
+    
+
 19.- Si queremos cambiar el tamaño de la letra del botón 'Enviar' cuando pasamos el ratón por encima ¿Que selector deberiamos? Y como sería la regla CSS
+
+
 
 20.- Queremos que los SI tengan un color cuando se le pasa el ratón por encima ¿Como sería el selector?
 
