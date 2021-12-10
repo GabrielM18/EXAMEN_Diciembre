@@ -1,12 +1,41 @@
-*{
+
+
+.cuerpo{
     background-color:#002F77
+
+}
+.box{
+    height: 900px;
+    width:80%;
+    background-color:  #0075B8;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    border-radius: 15px;
+  
+    
+}
+.logo1{
+    float: left;
+    margin-left: 80px;
+    margin-top: 30px;
+    font-size:100px;
+    margin-bottom: 0;
+    color: white; 
+    font-family: Roboto; 
+    font-weight: lighter;
+    
     
 }
 
+.columna1{
+    float: left;   
+    margin-right: 75%;
+    margin-left: 3%;
+    color: white;
+    
+  
+  
 
-.box{
-    height: 500px;
-    width:500px;
-    background-color:  #0075B8;
-    float: center;
 }
