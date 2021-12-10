@@ -1,0 +1,12 @@
+*{
+    background-color:#002F77
+    
+}
+
+
+.box{
+    height: 500px;
+    width:500px;
+    background-color:  #0075B8;
+    float: center;
+}
