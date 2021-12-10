@@ -1,0 +1,86 @@
+1.- Pon ejemplos de Lenguajes de Marcas, y su uso (al menos 3)
+
+    HTML-->Diseño de paginas
+    JSON-->Peticiones a servidores
+    YALM-->Configuracion
+
+2.- ¿Que caracter usa YAML para diferenciar cuando empieza y termina una instrucción?
+
+
+
+3.- ¿Cual es el uso principal de MarkDown?
+
+Para maquetacion de proyectos, o paginas web.
+
+4.- ¿Como se haria una lista ordenada de 3 items en MarkDown?
+
+
+
+5.- Nombra 3 ejemplos de uso de Latex
+
+
+
+6.- ¿En que se parece el Xml y el HTML?
+
+    En su lenguage
+
+7.- ¿Que tipos de valor acepta JSON?
+
+    
+
+8.- ¿Cuantos niveles de anidación permite JSON?
+a.- Ninguno, solo permite hacer objetos planos
+b.- Uno, solo permite que uno de los atributos sea un objeto
+c.- Infinito, no hay un limite de anidaciones
+d.- Dos, se permite que un array sea anidado de objetos.
+
+9.- Usos principales de JSON
+
+    Petciones a servidores
+
+10.- En HTML ¿Cual sería la etiqueta a usar para un parrafo?
+a.- p
+b.- b
+c.- div-->Esta
+d.- span
+
+11.- En HTML ¿Cual sería la etiqueta a usar para una lista sin orden?
+a.- p
+b.- ul li
+c.- ol li-->Esta
+d.- span
+
+12.- En HTML ¿Cual sería la etiqueta a usar para un Titulo de segundo orden?
+a.- h1
+b.- h2-->Esta
+c.- h3
+d.- h4
+
+13.- En HTML ¿Que herramienta se puede usar para organizar la información a enviar a un servidor?
+a.- form-->Esta
+b.- select
+c.- option
+d.- input
+
+
+======================
+Para las siguientes preguntas se debe mirar el código html de preguntas.html
+
+14.- En CSS y teniendo en cuenta el Código HTML anterior. ¿Como sería el selector CSS valido para el DropDown de Originalidad?
+a.- select.originalidad
+b.- #original
+c.- #originalidad
+d.- select#originalidad
+
+15.- Queremos seleccionar todos los li tengan el fondo de color azul ¿Como sería el selector y la regla CSS?
+
+16.- Queremos poner un margin a la izquierda y derecha de 2rem en los div que sean grid-item ¿Como sería el selector y las reglas CSS?
+
+17.- ¿Que está mal en el footer? ¿Lo mostraría correctamente el navegador?
+
+18.- ¿Cual es la función de las etiquetas meta?
+
+19.- Si queremos cambiar el tamaño de la letra del botón 'Enviar' cuando pasamos el ratón por encima ¿Que selector deberiamos? Y como sería la regla CSS
+
+20.- Queremos que los SI tengan un color cuando se le pasa el ratón por encima ¿Como sería el selector?
+
