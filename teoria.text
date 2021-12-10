@@ -26,7 +26,7 @@ Para maquetacion de proyectos, o paginas web.
 
 7.- ¿Que tipos de valor acepta JSON?
 
-    
+
 
 8.- ¿Cuantos niveles de anidación permite JSON?
 a.- Ninguno, solo permite hacer objetos planos
@@ -39,9 +39,9 @@ d.- Dos, se permite que un array sea anidado de objetos.
     Petciones a servidores
 
 10.- En HTML ¿Cual sería la etiqueta a usar para un parrafo?
-a.- p
+a.- p-->Esta
 b.- b
-c.- div-->Esta
+c.- div
 d.- span
 
 11.- En HTML ¿Cual sería la etiqueta a usar para una lista sin orden?
@@ -69,12 +69,17 @@ Para las siguientes preguntas se debe mirar el código html de preguntas.html
 14.- En CSS y teniendo en cuenta el Código HTML anterior. ¿Como sería el selector CSS valido para el DropDown de Originalidad?
 a.- select.originalidad
 b.- #original
-c.- #originalidad
+c.- #originalidad-->Esta
 d.- select#originalidad
 
 15.- Queremos seleccionar todos los li tengan el fondo de color azul ¿Como sería el selector y la regla CSS?
 
 16.- Queremos poner un margin a la izquierda y derecha de 2rem en los div que sean grid-item ¿Como sería el selector y las reglas CSS?
+    
+    .grid-item{
+        margin-left: 2rem;
+        margin-right: 2rem;
+    }
 
 17.- ¿Que está mal en el footer? ¿Lo mostraría correctamente el navegador?
 
