@@ -73,20 +73,20 @@ d.- input
 Para las siguientes preguntas se debe mirar el código html de preguntas.html
 
 14.- En CSS y teniendo en cuenta el Código HTML anterior. ¿Como sería el selector CSS valido para el DropDown de Originalidad?
-a.- select.originalidad
+a.- select.originalidad-->Esta
 b.- #original
-c.- #originalidad-->Esta
+c.- #originalidad
 d.- select#originalidad
 
 15.- Queremos seleccionar todos los li tengan el fondo de color azul ¿Como sería el selector y la regla CSS?
 
-    #li=backgraund:blue{
+    Select#li=backgraund:blue{
 
     }
 
 16.- Queremos poner un margin a la izquierda y derecha de 2rem en los div que sean grid-item ¿Como sería el selector y las reglas CSS?
     
-    .grid-item{
+    Select.grid-item{
         margin-left: 2rem;
         margin-right: 2rem;
     }
@@ -105,3 +105,6 @@ d.- select#originalidad
 
 20.- Queremos que los SI tengan un color cuando se le pasa el ratón por encima ¿Como sería el selector?
 
+    select*si{
+        color: pink
+    }
